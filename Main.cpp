@@ -1,6 +1,6 @@
 // CPP code for my card requests as VP of Finance
 // Utilizes queues, objects, and files
-// by: Stephanie Blossom (except for the sorting algorithm from stack overflow <3)
+// by: Stephanie Blossom
 
 #include <string>
 
